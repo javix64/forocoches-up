@@ -1,6 +1,8 @@
 # Forocoches UP
 Esto es un upeador de posts de [forocoches](https://forocoches.com)
 
+## EN CONSTRUCCION
+pues eso lo voy a dejar de lado una temporada
 ## Requirements
     - Selenium
     - Raspberry?
