@@ -1,0 +1,514 @@
+1620595259553	geckodriver	INFO	Listening on 127.0.0.1:58071
+1620595279398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesW9eWL"
+1620595280299	Marionette	INFO	Marionette enabled
+1620595282508	Marionette	INFO	Listening on port 35425
+1620595282569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620595290222	Marionette	INFO	Stopped listening on port 35425
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620595349672	geckodriver	INFO	Listening on 127.0.0.1:41305
+1620595365905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecZt4G3"
+1620595366539	Marionette	INFO	Marionette enabled
+1620595367982	Marionette	INFO	Listening on port 41437
+1620595368039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620595377784	Marionette	INFO	Stopped listening on port 41437
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620595410502	geckodriver	INFO	Listening on 127.0.0.1:55729
+1620595426556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew06Jxa"
+1620595427211	Marionette	INFO	Marionette enabled
+1620595428778	Marionette	INFO	Listening on port 41043
+1620595428887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://8fb4270a-f6fd-46fa-853a-59ef787d43d0/js/vapi.js, line 1: SecurityError: Permission denied to access property "vAPI" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://8fb4270a-f6fd-46fa-853a-59ef787d43d0/js/vapi.js, line 1: SecurityError: Permission denied to access property "vAPI" on cross-origin object
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://b5d7abcc-63d8-4d0e-bec8-4734abdcbcdd/content.js, line 66: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://6c9183c9-856b-4833-839c-6b612348e15e/js/content.js, line 118: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620595442235	Sync.SyncAuthManager	ERROR	Non-authentication error in _fetchTokenForUser: TokenServerClientNetworkError({"error":{}})(resource://services-common/tokenserverclient.js:39:36) JS Stack trace: TokenServerClientNetworkError@tokenserverclient.js:62:16
+_tokenServerExchangeRequest@tokenserverclient.js:241:13
+1620595442240	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1620595442500	Marionette	INFO	Stopped listening on port 41043
+1620765422634	geckodriver	INFO	Listening on 127.0.0.1:35767
+1620765423643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevLcrtJ"
+1620765424734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620765427242	Marionette	INFO	Listening on port 36045
+1620765427299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620765430886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1620765432954	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620765503674	geckodriver	INFO	Listening on 127.0.0.1:34639
+1620765522940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUT78eA"
+1620765524061	Marionette	INFO	Marionette enabled
+1620765526255	Marionette	INFO	Listening on port 44529
+1620765526287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+1620765569051	Marionette	INFO	Stopped listening on port 44529
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620765571838	geckodriver	INFO	Listening on 127.0.0.1:57313
+1620765587983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuFScy8"
+1620765588758	Marionette	INFO	Marionette enabled
+1620765591319	Marionette	INFO	Listening on port 41453
+1620765591433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: moz-extension://6c9183c9-856b-4833-839c-6b612348e15e/js/content.js, line 118: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://6c9183c9-856b-4833-839c-6b612348e15e/js/lib/network.js, line 842: Error: Promised response from onMessage listener went out of scope
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+1620765628984	geckodriver	INFO	Listening on 127.0.0.1:45603
+1620765646899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCQ8Aa1"
+1620765647797	Marionette	INFO	Marionette enabled
+1620765649894	Marionette	INFO	Listening on port 35505
+1620765649939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620765682878	Marionette	INFO	Stopped listening on port 35505
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620765686113	Marionette	INFO	Stopped listening on port 41453
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620765712158	geckodriver	INFO	Listening on 127.0.0.1:57131
+1620765728316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenCr13R"
+1620765729086	Marionette	INFO	Marionette enabled
+1620765730879	Marionette	INFO	Listening on port 37655
+1620765730953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+1620765860362	geckodriver	INFO	Listening on 127.0.0.1:46833
+1620765881903	geckodriver	INFO	Listening on 127.0.0.1:58957
+1620765896687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX6WCuB"
+1620765897446	Marionette	INFO	Marionette enabled
+1620765899794	Marionette	INFO	Listening on port 40101
+1620765899849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620765999511	Marionette	INFO	Stopped listening on port 40101
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+1620766066300	Marionette	INFO	Stopped listening on port 37655
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620766094382	geckodriver	INFO	Listening on 127.0.0.1:44801
+1620766109043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7o0lZv"
+1620766109764	Marionette	INFO	Marionette enabled
+1620766112028	Marionette	INFO	Listening on port 37385
+1620766112075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://8fb4270a-f6fd-46fa-853a-59ef787d43d0/js/vapi.js, line 1: SecurityError: Permission denied to access property "vAPI" on cross-origin object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F00000WI0D&tab=3, line 177: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F00000WI0D&tab=3, line 177: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F00000WI0D&tab=3, line 177: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F00000WI0D&tab=3, line 177: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.morningstar.es/es/funds/snapshot/snapshot.aspx?id=F00000WI0D&tab=3, line 177: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 616: TypeError: context.contentWindow is null
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620766119831	Marionette	INFO	Stopped listening on port 37385
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620766139152	geckodriver	INFO	Listening on 127.0.0.1:42891
+1620766153903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8HmCCz"
+1620766154612	Marionette	INFO	Marionette enabled
+1620766156894	Marionette	INFO	Listening on port 34999
+1620766156959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: https://www.morningstar.es/common/sal-report/3.42.2/sal-components-cef-valuation-statistics/build/sal-components-cef-valuation-statistics.js, line 599: TypeError: sal_components_core_vue__WEBPACK_IMPORTED_MODULE_3__ is undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1620766481604	Marionette	INFO	Stopped listening on port 34999
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621103968731	geckodriver	INFO	Listening on 127.0.0.1:34253
+1621103985865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewSt1Bc"
+1621103986743	Marionette	INFO	Marionette enabled
+1621103988871	Marionette	INFO	Listening on port 44755
+1621103988905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 123: Error: Bad @contain-facebook principal: moz-extension://3044a6c9-5778-414d-8734-de9d33693c90/_generated_background_page.html
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1903: TypeError: data is null
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 359: Error: Unknown sender or wrong actor for recvCreateProxyContext
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 123: Error: Bad @contain-facebook principal: moz-extension://3044a6c9-5778-414d-8734-de9d33693c90/_generated_background_page.html
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 359: Error: Unknown sender or wrong actor for recvAddListener
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 359: Error: Unknown sender or wrong actor for recvAddListener
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 359: Error: Unknown sender or wrong actor for recvAddListener
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 359: Error: Unknown sender or wrong actor for recvAddListener
+JavaScript error: resource://gre/modules/ConduitsParent.jsm, line 359: Error: Unknown sender or wrong actor for recvAPICall
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://8fb4270a-f6fd-46fa-853a-59ef787d43d0/js/vapi.js, line 1: SecurityError: Permission denied to access property "vAPI" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Extension error: Error: Type error for parameter tabId (Integer -1 is too small (must be at least 0)) for tabs.get. moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js 143
+[[Exception stack
+updatePageFrameStructure@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:143:20
+@moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/ext/background.js:246:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:622:13
+fire@resource://gre/modules/ExtensionChild.jsm:806:37
+recvRunListener@resource://gre/modules/ExtensionChild.jsm:810:13
+_recv@resource://gre/modules/ConduitsChild.jsm:78:20
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:184:20
+run@resource://gre/modules/ConduitsChild.jsm:175:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.jsm:176:46
+receiveMessage@resource://gre/modules/ConduitsChild.jsm:176:31
+]]
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1621104072882	Marionette	INFO	Stopped listening on port 44755
+1621104293592	geckodriver	INFO	Listening on 127.0.0.1:38667
+1621104308060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePziyfb"
+1621104308787	Marionette	INFO	Marionette enabled
+1621104310833	Marionette	INFO	Listening on port 37623
+1621104310908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 2345: Error: listener not re-registered
+JavaScript error: about:blank, line 115: TypeError: can't redefine non-configurable property "metadata"
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 499: TypeError: this.contentWindow is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: moz-extension://8fb4270a-f6fd-46fa-853a-59ef787d43d0/js/vapi.js, line 1: SecurityError: Permission denied to access property "vAPI" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: moz-extension://7b9272bf-0a41-4e39-ba86-cec907bc75d8/background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h1-check.js, line 1: TypeError: i.default.detectStore(...) is undefined
+JavaScript error: moz-extension://81ca4b42-b342-4f23-9ea7-cd6a88242b73/h0-main.js, line 1: Error: Could not establish connection. Receiving end does not exist.
