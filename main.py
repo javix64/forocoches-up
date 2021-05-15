@@ -1,9 +1,12 @@
 import time, sys
 from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 post = sys.argv[1]
 carpetaFirefox = '/home/x535/.mozilla/firefox/23nz704b.default-release/'
 profile = webdriver.FirefoxProfile(carpetaFirefox)
-driver = webdriver.Firefox(firefox_profile=profile)
+options = Options()
+options.headless = True
+driver = webdriver.Firefox(firefox_profile=profile, options=options)
 driver.get(post)
 for i in range(2,200):
     textarea = driver.find_element_by_id('vB_Editor_QR_iframe')
